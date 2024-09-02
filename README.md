@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shahd Ahmed
+- 👋 Hi, I’m Shahd Baloula
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning some new languages
 
